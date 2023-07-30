@@ -1,1 +1,2 @@
-/mysql
+nginx_node/mysql/*
+nginx_node/node_modules/*
